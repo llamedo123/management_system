@@ -1,0 +1,57 @@
+form
+{
+    margin: 0 auto;
+    width: 400px;
+    background-color: rgb(227, 228, 229);
+    padding: 50px;
+    border: 0.5px solid rgb(206, 202, 202);
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgb(0, 0, 0);
+}
+
+label
+{
+    display: block;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+/* For Inputs Style */
+input[type = "text"],
+input[type = "password"]
+{
+    background-color: rgb(227, 228, 229);
+    border: 0.1px rgb(179, 177, 177);
+    border-radius: 5px;
+    width: 100%;
+    padding: 7px;
+    margin-top: 7px;
+    margin-left: -5px;
+    box-shadow: 0 0 5px rgb(0, 0, 0);
+  
+}
+/* Hover Input */
+input[type = "text"]:hover,
+input[type = "password"]:hover
+{
+    background-color: rgb(255, 255, 255);
+
+}
+
+/* For Button Style */
+button[type = "submit"]
+{
+    display: block;
+    margin: 40px auto;
+    padding: 10px 30px;
+    background-color: rgb(227, 228, 229);
+    border: 0.5px solid rgb(179, 177, 177);
+    box-shadow: 0 0 5px rgb(0, 0, 0);
+    cursor: pointer;
+    font-weight: bold;
+}
+/* Hover Button */
+button[type = "submit"]:hover
+{
+    background-color: rgb(255, 255, 255);
+}
