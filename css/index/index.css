@@ -1,0 +1,18 @@
+table
+{
+    border: 1.5px solid black;
+    border-collapse: collapse;
+    width: 100%;
+}
+td, th
+{
+    padding: 10px;
+    text-align: left;
+    /* border-bottom: 1.5px solid black; */
+
+
+}
+tr:nth-child(even)
+{   
+    background-color: rgb(201, 199, 199);
+}
