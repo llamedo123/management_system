@@ -18,6 +18,6 @@ function connection()
 }
 function blank()
 {
-    //echo
+    //echoss
 }
 ?>
