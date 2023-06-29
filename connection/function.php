@@ -16,4 +16,8 @@ function connection()
         return $cons;
     }
 }
+function blank()
+{
+    //echo
+}
 ?>
