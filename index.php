@@ -22,7 +22,6 @@ $cons = connection();
     echo "Welcome Guest";
  }
 
- // echo "JAmes"
 ?>
 
 <!-- INDEX MANAGEMENT SYSTEM -->
