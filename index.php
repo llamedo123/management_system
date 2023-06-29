@@ -22,16 +22,7 @@ $cons = connection();
     echo "Welcome Guest";
  }
 
- // i change again the code for testing only
- // i change again the code for testing only
- // i change again the code for testing only
- // i change again the code for testing only
- // i change again the code for testing only
- echo 'DAN';
- echo 'DAN';
- echo 'DAN';
-
-
+ // echo "JAmes"
 ?>
 
 <!-- INDEX MANAGEMENT SYSTEM -->
